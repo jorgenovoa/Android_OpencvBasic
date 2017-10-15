@@ -1,5 +1,5 @@
 # Android_OpencvBasic
-Proyecto basico que integra las librerías de OPENCV 3.3.0 con Android Studio 2.3.3
+Proyecto básico que integra las librerías de OPENCV 3.3.0 con Android Studio 2.3.3
 
 # Pasos para integrar OPENCV en Android Studio
 
